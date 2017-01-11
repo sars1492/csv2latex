@@ -1,0 +1,15 @@
+# Compiled Python
+*.py[co]
+
+# Input files
+*.csv
+
+# Output files
+.tex
+
+# Vim/Emacs backup files
+*~
+
+# Vim  temporary files
+.*~
+*.swp
